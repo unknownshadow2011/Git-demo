@@ -3,3 +3,6 @@ git status - check git status
 git add    - file name for  add spicefy file staging area
 git add .  -  all file  staging area
  git commit -m "first file" - start commit file
+
+for  git  add and git commit in singal commend  line 
+git commit -a -m "remark"
