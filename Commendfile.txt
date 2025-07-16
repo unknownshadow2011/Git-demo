@@ -1,0 +1,5 @@
+git init   - start git to track file
+git status - check git status
+git add    - file name for  add spicefy file staging area
+git add .  -  all file  staging area
+ git commit -m "first file" - start commit file
