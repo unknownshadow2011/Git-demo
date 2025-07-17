@@ -2,7 +2,12 @@ git init   - start git to track file
 git status - check git status
 git add    - file name for  add spicefy file staging area
 git add .  -  all file  staging area
- git commit -m "first file" - start commit file
-
-for  git  add and git commit in singal commend  line 
-git commit -a -m "remark"
+git commit -m - for commit file
+git commit -a -m - for after change file  to add and  commit file.    
+git --help  - for  check all commend
+git branch - for check how many branch in git 
+git branch name branch - for create  new branch from master branch
+git switch branch name - for  switch other barnch
+git branch -d - for delet branch 
+git switch -c new branch name - for create  and  switch branch
+git branch -m new branch name  - for change  branch name
